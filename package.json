@@ -19,7 +19,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wwh/ideas.git"
+    "url": "https://github.com/wangwen135/taskboard.git"
   },
   "dependencies": {
     "express": "^5.2.1"
