@@ -1,0 +1,27 @@
+{
+  "name": "ideas",
+  "version": "2.5.3",
+  "description": "轻量级个人想法记录工具 - 支持标签筛选、优先级管理、多视图切换",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "ideas",
+    "notes",
+    "task-manager",
+    "tag-filter",
+    "calendar-view",
+    "express",
+    "lightweight"
+  ],
+  "author": "wwh",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wwh/ideas.git"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
